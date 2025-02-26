@@ -1,16 +1,16 @@
-/// week01-1.cpp ç˜‹ç‹‚ç¨‹è¨­ å…©æ•¸ç›¸åŠ 
-/// File-New empty é–‹æ–°çš„æª”æ¡ˆ
-/// Ctrl å­˜æª”æˆ week01-1.cpp è¦è¨˜å¾—åŠ .cpp
-/// ä¸‹é€±è€ƒè©¦è€ƒé€™é¡Œï¼Œä¸ç”¨å¯«è—è‰²çš„ä¸­æ–‡è¨»è§£
-#include <stdio.h> ///æª”åä¸èƒ½å¯«éŒ¯
-/// stdio çš„æ„æ€æ˜¯ æ¨™æº–çš„standard input/output
-/// æœ‰äº† stdio.h çš„å¤–æ›ï¼Œ æ‰èƒ½ç”¨ scanf() printf()
+/// week01-1.cpp ºÆ¨gµ{³] ¨â¼Æ¬Û¥[
+/// File-New empty ¶}·sªºÀÉ®×
+/// Ctrl ¦sÀÉ¦¨ week01-1.cpp ­n°O±o¥[.cpp
+/// ¤U¶g¦Ò¸Õ¦Ò³oÃD¡A¤£¥Î¼gÂÅ¦âªº¤¤¤åµù¸Ñ
+#include <stdio.h> ///ÀÉ¦W¤£¯à¼g¿ù
+/// stdio ªº·N«ä¬O ¼Ğ·Çªºstandard input/output
+/// ¦³¤F stdio.h ªº¥~±¾¡A ¤~¯à¥Î scanf() printf()
 int main()
 {
-	int a, b; /// æ•´æ•¸a, b
-	scanf( "%d" , &a ); /// æ­£èª²å‰›å‰›æ•™ï¼Œæƒæè®€æ±è¥¿
-	scanf( "%d" , &b ); /// å¯ä»¥ç”¨è¤‡è£½çš„,å†æ”¹ b
+	int a, b; /// ¾ã¼Æa, b
+	scanf( "%d" , &a ); /// ¥¿½Ò­è­è±Ğ¡A±½´yÅªªF¦è
+	scanf( "%d" , &b ); /// ¥i¥H¥Î½Æ»sªº,¦A§ï b
 
-	printf("%d", a+b ); /// å¯¦ç¿’èª²æœ‰æ•™ï¼Œå°æ±è¥¿
+	printf("%d", a+b ); /// ¹ê²ß½Ò¦³±Ğ¡A¦LªF¦è
 
 }
